@@ -26,7 +26,7 @@ $(document).ready(function() {
     //clears out the last output
     $("#textOutput").empty();
     //puts the value from input field into a variable
-    var inputNumber = document.getElementById("inputField").value;
+    var inputNumber = parseInt($("#inputField").val());
     //prevents entry of non, negative and above max numbers. setting input field to numbers doesn't prevent all occurances
     if(inputNumber.match(/\D/) || inputNumber > 3999 || inputNumber < 1){
       alert("Please enter numbers only.");
