@@ -1,0 +1,46 @@
+body {
+  font-family: 'Merriweather', serif;
+  background-color: black;
+  font-size: 20px;
+  color: black;
+}
+
+.main {
+  background:  linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("https://crossorigin.me/http://mmkepler.com/other/stones.jpg");
+  background-size: 100% 115%;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 400px;
+  margin: 50px auto 0 auto;
+  padding: 15px 15px;
+}
+
+input {
+  margin: 5px 0px 10px 0;
+  width: 100px;
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#output {
+  background-color: white;
+  width: 325px;
+  height: 45px;
+  margin: 15px auto 0;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+#textOutput {
+  font-size: 25px;
+}
+
+#submit {
+  border: 1px solid black;
+  margin: 0 0 5px 0;
+  border-radius: 5px;
+  background-color: #fff9e6;
+  color: black;
+}
