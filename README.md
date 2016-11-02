@@ -6,6 +6,7 @@ This is an app I made out of my Free Code Camp roman numeral converter algorithm
 +  CSS  
 +  Javascript  
 +  Jquery  
++  Bootstrap  
 
 ###Author
 +  Melissa Kepler a.k.a. Missarachid  
