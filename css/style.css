@@ -3,6 +3,7 @@ body {
   background-color: black;
   font-size: 20px;
   color: black;
+  text-align: center;
 }
 
 .main {
@@ -43,4 +44,26 @@ input {
   background-color: #fff9e6;
   color: black;
   box-shadow: 1px 1px 1px gray;
+}
+
+.footer{
+  margin: 20px 0 0 auto;
+  height: 34px; 
+
+}
+
+.links {
+  font-size: 14px;
+  background-color: #333333;
+  color: #f2f2f2;
+  text-shadow: 1px 1px 1px black, -1px -1px 1px black;
+  border: 2px ridge lightgray;
+  padding: 5px 10px;
+  margin: 20px 5px 0 5px;
+}
+
+.links:focus, .links:hover, .links:active {
+  text-decoration: none;
+  color: white;
+  
 }
