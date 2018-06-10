@@ -1,15 +1,15 @@
-#Roman Numeral Converter
+#  Roman Numeral Converter
 This is an app I made out of my Free Code Camp roman numeral converter algorithm.
 
-###Built With
+###  Built With
 +  HTML  
 +  CSS  
 +  Javascript  
 +  Jquery  
 +  Bootstrap  
 
-###Author
+###  Author
 +  Melissa Kepler a.k.a. Missarachid  
 
-###Acknowledgements
+###  Acknowledgements
 +  Free Code Camp
